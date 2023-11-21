@@ -1,0 +1,1 @@
+Thsi file is used to fecth the data using $git pull which will perfom both fecthing and merging file to appropriate branch 
